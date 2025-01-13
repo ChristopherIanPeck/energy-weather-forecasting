@@ -7,7 +7,6 @@ This project explores the relationship between electricity spot prices, weather 
 ## Project Goals
 
 - **Data Analysis:** Analyze the impact of weather factors (precipitation, temperature, snow depth) on electricity spot prices and how these factors correlate with production and consumption.
-- **Outlier Detection:** Identify and handle outliers in the data, which may arise from issues such as incorrect formatting or data recording errors.
 - **Optimization Model:** Build an optimization model based on the analysis to suggest strategies for reducing price volatility and improving efficiency in energy trading.
 - **Visualization:** Create visual representations of the data, including plots and graphs, to better understand the relationships between different variables.
 
