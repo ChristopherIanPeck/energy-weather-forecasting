@@ -12,9 +12,9 @@ This project explores the relationship between electricity spot prices, weather 
 
 ## Data Sources
 
-- **Spot Price Data:** Historical spot prices for electricity in Norway.
-- **Weather Data:** Precipitation, snow depth, and temperature data for different locations in Norway.
-- **Energy Production & Consumption Data:** Data on electricity production and consumption across various periods.
+- **Spot Price Data:** Historical spot prices for electricity in Norway. https://www.energidataservice.dk/tso-electricity/Elspotprices
+- **Weather Data:** Precipitation, snow depth, and temperature data for different locations in Norway. https://www.ncdc.noaa.gov/cdo-web/
+- **Energy Production & Consumption Data:** Data on electricity production and consumption across various periods. https://www.statnett.no/en/ 
 
 ## Methodology
 
